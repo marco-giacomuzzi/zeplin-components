@@ -1,0 +1,30 @@
+{
+    "projects": [
+        "5e820010753a246b8b03a493"
+    ],
+    "styleguides": [
+        "5e82001fa71d38714048b29d",
+        "5e81b3cc7712306f8f291029"
+    ],
+    "components": [
+      {
+        "path": "src/components/button/button.html",
+        "zeplinNames": [
+          "Atoms/Button/Primary",
+          "Atoms/Button/Success",
+          "Atoms/Button/Warning",
+          "Atoms/Button/Danger"
+        ]
+      },
+      {
+        "path": "src/components/search/search.html",
+        "zeplinNames": [
+          "Organism/Form/Search"
+        ]
+      }
+    ],
+    "github": {
+      "repository": "marco-giacomuzzi/zeplin-components",
+      "branch": "master"
+    }
+}
